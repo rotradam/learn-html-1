@@ -11,6 +11,11 @@
     display: flex;
     flex-direction: row-reverse;
 }
+/* 
+Main Axis & Cross Axis 
+flex-direction: row (main_axis = x-axis)
+flex-direction: column (main_axis = y-axis)
+*/
 
 .item{
     background-color: red;
